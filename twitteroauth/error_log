@@ -1,0 +1,4 @@
+[02-Dec-2011 14:47:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[02-Dec-2011 14:47:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[02-Dec-2011 14:47:56] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[02-Dec-2011 14:47:56] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0

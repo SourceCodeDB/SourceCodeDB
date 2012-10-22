@@ -1,0 +1,11 @@
+[20-Apr-2012 14:10:34] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/grupp3/public_html/fbsdk/base_facebook.php on line 886
+[20-Apr-2012 14:11:02] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/grupp3/public_html/fbsdk/base_facebook.php on line 886
+[20-Apr-2012 14:13:08] PHP Fatal error:  Uncaught CurlException: 6: name lookup timed out
+  thrown in /home/grupp3/public_html/fbsdk/base_facebook.php on line 886
+[20-Apr-2012 14:15:58] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/grupp3/public_html/fbsdk/base_facebook.php on line 902
+[20-Apr-2012 14:18:53] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/grupp3/public_html/fbsdk/base_facebook.php on line 902
+[20-Apr-2012 14:19:09] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/grupp3/public_html/fbsdk/base_facebook.php on line 902
+[20-Apr-2012 14:19:19] PHP Warning:  curl_close(): 4 is not a valid cURL handle resource in /home/grupp3/public_html/fbsdk/base_facebook.php on line 902
+[20-Apr-2012 14:20:18] PHP Warning:  curl_close(): 3 is not a valid cURL handle resource in /home/grupp3/public_html/fbsdk/base_facebook.php on line 902

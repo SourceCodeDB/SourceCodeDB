@@ -1,0 +1,332 @@
+/*
+* this is for the overall look, patrik
+* Edited by Markus Jan 2012
+*/
+body {
+	margin:0;
+	padding:0;
+	font:13px/16px "Lucida Grande", Arial, Sans-serif;
+	color:#789;
+	background-color:#ffffff;
+}
+#container {
+	width:780px;
+	margin:0 auto;
+	position: relative;
+}
+
+#content {
+	width:520px;
+	min-height:500px;
+}
+
+#topnav {
+	margin-top: 10px;
+	padding:10px 0px 1px;
+	font-size:11px;
+	line-height:23px;
+	text-align:right;
+	background-color:#88bbd4;
+	color:#FFF;
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+}
+#topnav a.signin {
+	background:#88bbd4;
+	padding:4px 6px 6px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#fff;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+}
+
+#topnav a.logout {
+	background:#88bbd4;
+	padding:4px 6px 6px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#fff;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+}
+#topnav a.signin:hover {
+	background:#59B;
+}
+#topnav a.logout:hover {
+	background:#59B;
+}
+
+#topnav a.signin, #topnav a.signin:hover {
+}
+
+#topnav a.logout, #topnav a.logout:hover {
+}
+
+a.signin {
+	position:relative;
+	margin-left:3px;
+}
+
+a.logout {
+	position:relative;
+	margin-left:3px;
+}
+a.signin span {
+	background-image:url("images/toggle_down_light.png");
+	background-repeat:no-repeat;
+	background-position:100% 50%;
+	padding:4px 16px 6px 0;
+}
+a.logout span {
+	background-image:url("images/toggle_down_light.png");
+	background-repeat:no-repeat;
+	background-position:100% 50%;
+	padding:4px 16px 6px 0;
+}
+#topnav a.menu-open {
+	background:#ddeef6!important;
+	color:#666!important;
+	outline:none;
+}
+a.signin.menu-open span {
+	background-image:url("images/toggle_up_dark.png");
+	color:#789;
+}
+
+#signin_menu {
+	-moz-border-radius-topleft:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	display:none;
+	background-color:#ddeef6;
+	position:absolute;
+	width:180px;
+	z-index:100;
+	border:1px transparent;
+	text-align:left;
+	padding:12px;
+	top: 24.5px; 
+	right: 0px; 
+	margin-top:5px;
+	margin-right: 0px;
+	color:#789;
+	font-size:11px;
+}
+
+#signin_menu input[type=text], #signin_menu input[type=password] {
+	display:block;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border:2px solid #ACE;
+	font-size:13px;
+	margin:0 0 5px;
+	padding:5px;
+	width:165px;
+}
+
+#signin_menu label {
+	font-weight:normal;
+}
+
+
+#login {
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background:#39d url('images/bg-btn-blue.png') repeat-x scroll 0 0;
+	border:1px solid #39D;
+	color:#fff;
+	text-shadow:0 -1px 0 #39d;
+	padding:4px 60px 5px 60px;
+	font-size:11px;
+	margin:5px 5px 0 0px;
+	font-weight:bold;
+}
+#login::-moz-focus-inner {
+padding:0;
+border:0;
+}
+#login:hover, #signin_submit:focus {
+	background-position:0 -5px;
+	cursor:pointer;
+}
+
+#member{
+margin-right: 2%;
+color:#FFFFFF;
+text-decoration:none;
+}
+/*
+* my pages
+*/
+.margin {
+	margin-left:400px
+}
+.up {
+	background:url(../images/up.PNG);
+	width:170px; 
+	height:25px;
+}
+.down {
+	background:url(../images/down.PNG);
+	width:170px;
+	height:25px;
+}
+/*
+* filter buttons
+*/
+.on {
+	background-image: url(../images/ON.png); 
+	border:none; 
+	width:70px; 
+	height: 15px; 
+}
+.off { 
+	background-image:url(../images/OFF.png); 
+	border:none; 
+	width:70px; 
+	height: 15px;  
+}
+.selectedUp { 
+	background-image:url(../images/selectedUp.png); 
+	border:none; 
+	width:100px; 
+	height: auto; 
+}
+.selectedDown { 
+	background-image:url(../images/selectedDown.png); 
+	border:none; 
+	width:100px; 
+	height:auto; 
+}
+.up { 
+	background-image:url(../images/up.png); 
+	border:none; 
+	width:100px; 
+	height: auto; 
+}
+.down { 
+	background-image:url(../images/down.png); 
+	border:none; 
+	width:100px; 
+	height:auto; 
+}
+/*
+* dropdown for filter
+*/
+.dropdown {
+	float:right; 
+	padding-right:5px;
+}
+.dropdown dt {
+	width:188px; 
+	padding:0px; 
+	font-weight:bold; 
+	cursor:pointer; 
+	background:url(../images/header.gif);
+	margin-right:0px;
+}
+.dropdown dt:hover {
+	background:url(../images/header_over.gif);
+}
+.dropdown dd {
+	position:absolute; 
+	overflow:hidden; 
+	width:208px; 
+	display:none; 
+	background:#fff; 
+	z-index:200; 
+	opacity:0
+}
+.dropdown ul {
+	width:204px; 
+	list-style:none; 
+	border-top:none;
+	margin-left:-90px;
+}
+.dropdown li {
+	display:inline;
+}
+.dropdown a, .dropdown a:active, .dropdown a:visited {
+	display:block; 
+	padding:0px; 
+	color:#333; 
+	text-decoration:none; 
+	background:#eaf0f2; 
+	width:194px;
+	padding-left:5px;
+}
+.dropdown a:hover {
+	background:#d9e1e4; 
+	color:#000;
+}
+.dropdown .underline {
+	border-bottom:1px solid #b9d6dc;
+}
+/*
+* footer
+*/
+.footer {
+	width:500px;
+	text-align:center;
+	margin:auto;
+	float:left;
+}
+/*
+* This is for displaying and formatting code
+*/
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for php
+ * CSS class: , CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2009 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.php .de1, .php .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.php  {font-family:monospace;}
+.imp {font-weight: bold; color: red;}
+.php li, .php .li1 {font-weight: normal; vertical-align:top;}
+.ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.li2 {font-weight: bold; vertical-align:top;}
+.kw1 {color: #b1b100;}
+.kw2 {color: #000000; font-weight: bold;}
+.kw3 {color: #990000;}
+.kw4 {color: #009900; font-weight: bold;}
+.co1 {color: #666666; font-style: italic;}
+.co2 {color: #666666; font-style: italic;}
+.co3 {color: #0000cc; font-style: italic;}
+.co4 {color: #009933; font-style: italic;}
+.coMULTI {color: #666666; font-style: italic;}
+.es0 {color: #000099; font-weight: bold;}
+.es1 {color: #000099; font-weight: bold;}
+.es2 {color: #660099; font-weight: bold;}
+.es3 {color: #660099; font-weight: bold;}
+.es4 {color: #006699; font-weight: bold;}
+.es5 {color: #006699; font-weight: bold; font-style: italic;}
+.es6 {color: #009933; font-weight: bold;}
+.es_h {color: #000099; font-weight: bold;}
+.br0 {color: #009900;}
+.sy0 {color: #339933;}
+.sy1 {color: #000000; font-weight: bold;}
+.st0 {color: #0000ff;}
+.st_h {color: #0000ff;}
+.nu0 {color: #cc66cc;}
+.nu8 {color: #208080;}
+.nu12 {color: #208080;}
+.nu19 {color:#800080;}
+.me1 {color: #004000;}
+.me2 {color: #004000;}
+.re0 {color: #000088;}

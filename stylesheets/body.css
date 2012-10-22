@@ -1,0 +1,511 @@
+/* CSS Document */
+body {
+	margin:0;
+	padding:0;
+	font-size:0.75em;line-height:1.4;font-family:Tahoma, Geneva, sans-serif;
+	color:#222222;
+	background:url(../images/v2/bgtop.png);
+	background-repeat:repeat-x;
+	background-color: #FFFFFF;
+}
+.wrapper {
+	Width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.results {
+	display:none;
+}
+.results2 {
+	display:none;
+}
+#content {
+	width: 1000px;
+	background:#fff;
+	text-align:left;
+	background-color: #fff;
+	position:relative;
+	min-height:289px;
+}
+
+#content-right {
+	width: 450px;
+	height:376px;
+	margin-left:25px;
+	margin-right:25px;
+	float:right;
+	background:url(../images/v2/rightdiv1.png) no-repeat;
+}
+#content-right2 {
+	width:500px;
+	float:right;
+}
+#content-left {
+	width: 450px;
+	height:376px;
+	margin-left:25px;
+	margin-right:25px;
+	float:left;
+	background:url(../images/v2/leftdiv1.png) no-repeat;
+}
+#content-left2 {
+	width:500px;
+	float:left;
+}
+.div-right-body {
+	padding-top:50px;
+	padding-left:30px;
+}
+
+#mine{
+	position:absolute;
+	left:475px;
+	top:30px;	
+}
+#results_mypages{
+	
+}
+.up_change, .down_change{
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background:#222;
+	color:#fff;
+	padding:4px 10px 5px 10px;
+	font-size:11px;
+	font-weight:bold;
+}
+
+/* TABS */
+
+/* tab pane styling */
+.panes div {
+	display:none;		
+	padding:15px 10px;
+	width:800px;
+	font-size:14px;
+	background-color:#F2F2F2;
+	margin-left:5px;
+}
+/* root element for tabs  */
+ul.tabs { 
+	list-style:none; 
+	margin:0 !important; 
+	padding:0;		
+	height:30px;
+}
+
+/* single tab */
+ul.tabs li { 
+	float:left;	 
+	text-indent:0;
+	padding:0;
+	margin:0 !important;
+	list-style-image:none !important; 
+}
+
+/* link inside the tab. uses a background image */
+ul.tabs a { 
+	background: #CCC;
+	font-size:11px;
+	display:block;
+	height: 30px;  
+	line-height:30px;
+	width: 85px;
+	text-align:center;	
+	text-decoration:none;
+	color:#333;
+	padding:0px;
+	margin-left:5px;	
+	position:relative;
+	top:1px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+}
+
+ul.tabs a:active {
+	outline:none;		
+}
+
+/* when mouse enters the tab move the background image */
+ul.tabs a:hover {
+	background-position: -420px -31px;	
+	color:#fff;	
+}
+
+/* active tab uses a class name "current". its highlight is also done by moving the background image. */
+ul.tabs a.current, ul.tabs a.current:hover, ul.tabs li.current a {
+	background-position: -420px -62px;		
+	cursor:default !important; 
+	color:#000 !important;
+	background:#F2F2F2;
+}
+/* root element for tabs  */
+ul.admintabs { 
+	list-style:none; 
+	margin:0 !important; 
+	padding:0;		
+	height:30px;
+}
+
+/* single tab */
+ul.admintabs li { 
+	float:left;	 
+	text-indent:0;
+	padding:0;
+	margin:0 !important;
+	list-style-image:none !important; 
+}
+
+/* link inside the tab. uses a background image */
+ul.admintabs a { 
+	background: #CCC;
+	font-size:11px;
+	display:block;
+	height: 30px;  
+	line-height:30px;
+	width: 85px;
+	text-align:center;	
+	text-decoration:none;
+	color:#333;
+	padding:0px;
+	margin-left:5px;	
+	position:relative;
+	top:1px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+}
+
+ul.admintabs a:active {
+	outline:none;		
+}
+
+/* when mouse enters the tab move the background image */
+ul.admintabs a:hover {
+	background-position: -420px -31px;	
+	color:#fff;	
+}
+
+/* active tab uses a class name "current". its highlight is also done by moving the background image. */
+ul.admintabs a.current, ul.admintabs a.current:hover, ul.admintabs li.current a {
+	background-position: -420px -62px;		
+	cursor:default !important; 
+	color:#000 !important;
+	background:#F2F2F2;
+}
+
+/* initially all panes are hidden */ 
+.panes .pane {
+	display:none;		
+}
+.adminpanes .pane {
+	display:none;		
+}
+
+a:active {
+  outline:none;
+}
+
+:focus {
+  -moz-outline-style:none;
+}
+
+
+/* END OF TABS */
+
+#table{}
+#firstRow{ height:40px; background-image:url(images/first.png);}
+a:link {color: #06C}      /* unvisited link */
+a:visited {color: #06C}  /* visited link */
+a:hover {color: #003A75}  /* mouse over link */
+a:active {color: #003A75}  /* selected link */
+
+/*
+* This is for displaying and formatting code
+*/
+#main pre {
+	line-height: 1.5em;
+	font-size: 10px;
+	white-space: normal;
+	padding: 0;
+	background: #eae9e5;
+}
+pre ol {
+	list-style: decimal;
+	list-style-position: outside;
+	padding: 0;
+	margin: 0;
+}
+#main pre ol li {
+	margin: 0 0 0 35px;
+	padding: 0;
+	color: #000;
+	clear: none;
+}
+pre ol li div {
+	color:#000;
+}
+
+
+/* php */
+pre[lang=php] ol div,
+pre.php ol div {
+	color:#fd1435;
+}
+/* Line highlights */
+.li1 {
+	background: #f2f2f2;
+}
+/* Line highlights */
+.li1 {
+	background: #f2f2f2;
+}
+
+/* comments */
+.co1,
+.coMULTI {
+	color:#5c9dff;	
+}
+/* methods */
+.me1{
+	color:#000;
+}
+.me0 {	
+
+}
+.me2 {	
+	color:#000;
+}
+
+/* brackets */
+.br0 {
+	color:#2222ee;
+}
+
+/* strings */
+.st0 {
+	color:#b701bb;
+}
+
+/* keywords */
+.kw1 {
+	color: #fd1435;
+}
+.kw2 {
+	color:#6266f5;		
+}
+
+.kw3 {
+	color:#505e80;
+}
+
+/* numbers */
+.nu0 {
+	color:#0a0aa5;
+}
+
+/* vars */
+.re0 {
+	color:#059532;
+}
+
+
+/* 
+* CSS selectors 
+*****************/
+/* classnames */
+
+[lang=css] .kw2,
+.css .kw2 {
+	color:#0a0aa5;
+}
+.re1 {
+	color: #b701bb;
+}
+/* px values */
+[lang=css] .re3,
+.css .re3 {
+	color:#059532;
+}
+
+/*
+* Javascript
+****************/
+[lang=javascript] .me1,
+.javascript .me1 {
+	color:#505e80;
+}
+.news-title {
+	margin-left:40px;
+	font-size:22px;
+	font-weight:bold;
+}
+.news-body {
+	margin-left:55px;
+	font-size:12px;
+}
+.content-left-body {
+	margin-left:55px;
+	margin-top:55px;
+}
+.load{
+background-image:url(../images/loader.gif);
+background-position:right;
+background-repeat:no-repeat;
+}
+.suggestionsBox {
+	position: absolute;
+	left: 40px;
+	top:0px;
+	margin: 26px 0px 0px 0px;
+	width: 200px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+}
+.suggestionsBox2 {
+	position: absolute;
+	left: 40px;
+	top:60px;
+	margin: 26px 0px 0px 0px;
+	width: 200px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+	z-index:10;
+}
+.suggestionList ul {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList  {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+}
+.suggestionList ul li:hover {
+	background-color: #FC3;
+	color:#000;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+}
+#suggestresult {
+	height:20px;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+	margin-bottom:10px;
+	background-color:#FFFF99;
+}
+.content-left2-body {
+	margin-left:38px;
+	margin-top:-10px;
+}
+.load2{
+background-image:url(../images/loader.gif);
+background-position:right;
+background-repeat:no-repeat;
+}
+.suggestionsBox2 {
+	position: absolute;
+	left: 40px;
+	top:0px;
+	margin: 26px 0px 0px 0px;
+	width: 200px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+}
+.suggestionsBox4 {
+	position: absolute;
+	left: 40px;
+	top:60px;
+	margin: 26px 0px 0px 0px;
+	width: 200px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+	z-index:10;
+}
+.suggestionList2 ul {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList2  {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList2 ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+}
+.suggestionList2 ul li:hover {
+	background-color: #FC3;
+	color:#000;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+}
+#suggestresult2 {
+	height:20px;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+	margin-bottom:10px;
+	background-color:#FFFF99;
+}
+.userinfo1 {
+	position:relative;
+	left:145px;
+	top:-50px;
+	width:200px;
+}
+.userinfo2 {
+	width:200px;
+}
+.userinfo3 {
+	width:400px;
+	position:relative;
+	float: right;
+}
+#addupload {
+	float:left;
+	width:250px;
+	height:50px;
+	overflow:hidden;
+}
+#addcode {
+	float:left;
+	width:250px;
+	height:50px;
+	overflow:hidden;
+}
+#addproject {
+	float:left;
+	width:250px;
+	height:50px;
+	overflow:hidden;
+}
+#addtutorial {
+	float:left;
+	width:250px;
+	height:50px;
+	overflow:hidden;
+}

@@ -1,0 +1,1082 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SourceCodeDB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-06 00:17+0100\n"
+"PO-Revision-Date: 2011-11-06 02:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /Users/webmaster/Downloads/backuptranslate/\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/webmaster/Downloads/backuptranslate\n"
+
+#: /Users/webmaster/Downloads/backuptranslate/aboutus.php:6
+msgid "We are SourceCodeDB.com!"
+msgstr "Det här är SourceCodeDB.com!"
+
+#: /Users/webmaster/Downloads/backuptranslate/aboutus.php:9
+msgid "We are a group of students att Mälardalens University in Västerås, Sweden and we made this as our first project in our introduction course to computer science."
+msgstr "Vi är en grupp studenter från Mälardalens högskola i Västerås, Sverige och den här sidan har vi gjort som vårt första projekt i vår introduktions kurs."
+
+#: /Users/webmaster/Downloads/backuptranslate/aboutus.php:12
+msgid ""
+"Most of us in the group are completely new to web based programming and have had to learn\n"
+"a lot of information in a very short period of time. The codeing languages we have had to learn \n"
+"to make this site inlcude PHP, HTML, Javascript, jQuery, and AJAX. We hope you enjoy our site and \n"
+"if you have any tips or ideas feel free to contact us via our"
+msgstr "De flesta av oss i gruppen är helt nya inom webbutveckling och har därför behövt lära oss väldigt mycket på en kort tid. Programspråken som vi har behövt lära oss är bland annat PHP, HTML, Javascript, CSS men även teknikerna bakom AJAX och jQuery. Vi hoppas att du kommer att uppskatta vår sida och om du har några tips eller ideér hur vi kan förbättra sidan via våran"
+
+#: /Users/webmaster/Downloads/backuptranslate/aboutus.php:17
+msgid "contact us"
+msgstr "kontakta oss"
+
+#: /Users/webmaster/Downloads/backuptranslate/aboutus.php:19
+msgid "page."
+msgstr "sida."
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:20
+msgid "Here you may upload code, please make sure your code is right and that you dont abuse our site. We take our code and users who abuse our site very seriously. Thank you for making SourceCodeDB.com better!"
+msgstr "Här kan du ladda upp kod, var god kontrollera om koden är rätt innan du laddar upp koden. Tack för att du hjälper SourceCodeDB.com!"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:23
+#: /Users/webmaster/Downloads/backuptranslate/editcode.php:26
+msgid "Title"
+msgstr "Titel"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:25
+msgid "Please enter a descriptive title"
+msgstr "Var god skriv in en tydlig titel för koden"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:27
+#: /Users/webmaster/Downloads/backuptranslate/editcode.php:30
+msgid "Description"
+msgstr "Beskrivning"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:29
+msgid "Please enter description that will help users understand what the code does."
+msgstr "Skriv en utförlig beskrivning på vad koden gör."
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:31
+#: /Users/webmaster/Downloads/backuptranslate/editcode.php:34
+msgid "Enter your code!"
+msgstr "Skriv in din kod!"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:33
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:254
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:466
+msgid "Source"
+msgstr "Källa"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:35
+msgid "Leave blank if code is yours or there is no source but if you have taken this code from another website please tell us your source so that credit can be given."
+msgstr "Lämna rutan blank om koden är din. Om du dock har tagit koden från en webplats eller bok bör du skriva vart du har hittat koden."
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:38
+msgid "Share on facebook?"
+msgstr "Dela med dig på facebook?"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:41
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:232
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:285
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:240
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:452
+#: /Users/webmaster/Downloads/backuptranslate/header.php:246
+msgid "Language"
+msgstr "Språk"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:51
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:244
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:456
+#: /Users/webmaster/Downloads/backuptranslate/header.php:247
+msgid "Difficulty"
+msgstr "Svårighetsgrad"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:61
+#: /Users/webmaster/Downloads/backuptranslate/header.php:248
+msgid "Category"
+msgstr "Kategori"
+
+#: /Users/webmaster/Downloads/backuptranslate/addcode.php:87
+msgid "sorry you must be logged in to post"
+msgstr "Du måste vara inloggad för att kommentera"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:27
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:62
+msgid "Success"
+msgstr "Success"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:72
+msgid "Could not find a username matching your query"
+msgstr "Kunde inte hitta ett användarnamn som matchar din fråga"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:117
+msgid "Site Statistics"
+msgstr "Hemsidans statistik"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:121
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:157
+msgid "Bookmarks"
+msgstr "Bokmärken"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:128
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:178
+msgid "Public codes"
+msgstr "Allmäna koder"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:135
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:179
+msgid "Private codes"
+msgstr "Privata koder"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:143
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:159
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:180
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:156
+msgid "Remove all"
+msgstr "Ta bort alla"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:158
+msgid "Avatars"
+msgstr "Avatarer"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:160
+msgid "Codes"
+msgstr "Koder"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:161
+msgid "Ratings"
+msgstr "Betyg"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:162
+#: /Users/webmaster/Downloads/backuptranslate/header.php:183
+#: /Users/webmaster/Downloads/backuptranslate/header.php:273
+msgid "News"
+msgstr "Nyheter"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:163
+msgid "Rankings"
+msgstr "Betyg"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:164
+msgid "Everything"
+msgstr "Allt"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:165
+msgid "that belongs to no user "
+msgstr "den tillhör ingen användare"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:177
+msgid "Site log"
+msgstr "Hemsidans logg"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:181
+msgid "Moderation"
+msgstr "Moderation"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:182
+msgid "Warn"
+msgstr "Varning"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:183
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:497
+msgid "Bans"
+msgstr "Bans"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:195
+msgid "Action"
+msgstr "Handling"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:196
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:334
+msgid "Time"
+msgstr "Tid"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:231
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:284
+msgid "Code"
+msgstr "Kod"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:333
+msgid "Comment section"
+msgstr "Kommentarsektion"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:383
+msgid "Needs to be moderated"
+msgstr "Behöver bli modererad"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:384
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:476
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:498
+msgid "User"
+msgstr "Användare"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:475
+msgid "Warnings"
+msgstr "Varningar"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:534
+msgid "Sorry you need to be an admin to access this page"
+msgstr "Enbart admins kan komma åt den här sidan"
+
+#: /Users/webmaster/Downloads/backuptranslate/admin.php:552
+msgid "Registration required!"
+msgstr "Registrering krävs!"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:36
+msgid "Ban sent!"
+msgstr "Ban skickad!"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:55
+msgid "You cant ban yourself?"
+msgstr "Du kan inte banna dig själv?"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:61
+msgid "Ban"
+msgstr "Ban"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:65
+msgid "Title:"
+msgstr "Title:"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:68
+msgid "Reason for ban:"
+msgstr "Orsaken till ban:"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:86
+msgid "You dont have permission to ban users"
+msgstr "Du har inte tillräckligt med rättigheter för att banna användare"
+
+#: /Users/webmaster/Downloads/backuptranslate/ban.php:94
+msgid "Sorry you must be logged in to ban users."
+msgstr "Du måste vara inloggad för att banna användare."
+
+#: /Users/webmaster/Downloads/backuptranslate/banned.php:327
+msgid "You have been banned!"
+msgstr "Du har blivit bannad!"
+
+#: /Users/webmaster/Downloads/backuptranslate/banned.php:329
+msgid "This could be because of spamming, abuse to our site, or many other reasons. Please read below."
+msgstr "Det kan bero på spam eller många andra orsaker. Läs nedan"
+
+#: /Users/webmaster/Downloads/backuptranslate/banned.php:333
+msgid "Reason"
+msgstr "Anledning"
+
+#: /Users/webmaster/Downloads/backuptranslate/banned.php:337
+msgid "Date"
+msgstr "Datum"
+
+#: /Users/webmaster/Downloads/backuptranslate/banned.php:344
+msgid "If you feel that this ban has occured as an error please contact us at"
+msgstr "Om du tycker att du har blivit bannad utan orsak, kontakta oss här"
+
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:85
+msgid "You have been registered and your other SourceCodeDB.com account has been merged with this one."
+msgstr "Du har nu blivit registrerad och ditt andra SourceCodeDB.com konto har blivit sammansatt med det här"
+
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:98
+msgid "Your facebook account has been added"
+msgstr "Ditt facebook konto har raderats"
+
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:110
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:120
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:132
+msgid "Please"
+msgstr "Var god"
+
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:112
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:122
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:134
+msgid "login."
+msgstr "logga in."
+
+#: /Users/webmaster/Downloads/backuptranslate/combine.php:129
+msgid "You are not logged in?"
+msgstr "Du har inte loggat in"
+
+#: /Users/webmaster/Downloads/backuptranslate/contactus.php:6
+#: /Users/webmaster/Downloads/backuptranslate/footer.php:3
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: /Users/webmaster/Downloads/backuptranslate/contactus.php:8
+msgid "Email us at contact@sourcecodedb.com"
+msgstr "Maila oss här contact@sourcecodedb.com"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:87
+msgid "You can only post a comment every 30 seconds"
+msgstr "Man kan bara posta en komment var 30onde sekund"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:95
+msgid "Comment submitted!"
+msgstr "Kommentar skickad!"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:105
+msgid "Comment deleted!"
+msgstr "Kommentar borttagen!"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:115
+msgid "Bookmark deleted!"
+msgstr "Bokmärket har tagits bort!"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:123
+msgid "Bookmark saved!"
+msgstr "Bokmärket har sparats!"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:172
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:182
+msgid "Code Deleted"
+msgstr "Kod borttagen"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:196
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:408
+msgid "Author"
+msgstr "Skapare"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:248
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:460
+msgid "Last Edited"
+msgstr "senast ändrad"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:277
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:348
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:489
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:560
+msgid "Are you sure you want to delete this code?"
+msgstr "Är du säker på att du vill ta bort den här koden?"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:300
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:512
+msgid "COMMENTS"
+msgstr "KOMMENTARER"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:382
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:594
+msgid "Comment"
+msgstr "Kommentar"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:393
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:605
+msgid "You must be logged in to comment"
+msgstr "Du måste logga in för att kommentera"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:397
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:609
+msgid "something is wrong"
+msgstr "något är fel"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:401
+msgid "Code not published"
+msgstr "Koden har inte publicerats"
+
+#: /Users/webmaster/Downloads/backuptranslate/displaycode.php:614
+msgid "This code is no longer here"
+msgstr "Koden har tagits bort eller så existerar den inte"
+
+#: /Users/webmaster/Downloads/backuptranslate/editcode.php:63
+msgid "sorry you must be logged in to do that"
+msgstr "du måste vara inloggad för att göra det där"
+
+#: /Users/webmaster/Downloads/backuptranslate/footer.php:3
+msgid "About us"
+msgstr "Om oss"
+
+#: /Users/webmaster/Downloads/backuptranslate/footer.php:3
+msgid "Terms of Service"
+msgstr "Vilkor"
+
+#: /Users/webmaster/Downloads/backuptranslate/footer.php:3
+msgid "Privacy Policy"
+msgstr "sekretesspolicy"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:145
+msgid "source, code, database, sourcecode db, open source, library, php, java, javascript, c sharp, objective c, html, css, ASP, c++"
+msgstr "källa, kod, databas, källkod db, öppen källkod, bibliotek, php, java, javascript, c sharp, objective c, html, css, ASP, c++"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:165
+msgid "SourceCodeDB is a place for all programmers, beginners and experts, to find and share useful source code on the net. All content on this site is free to use for everyone."
+msgstr "SourceCodeDB är en plats för alla programmerare, nybörjare, experter, för att hitta och dela med sig utav användbar källkod. Allt på sidan är gratis att använda för alla."
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:183
+#: /Users/webmaster/Downloads/backuptranslate/header.php:255
+msgid "Home"
+msgstr "Hem"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:183
+msgid "Top Users"
+msgstr "Top användare"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:184
+#: /Users/webmaster/Downloads/backuptranslate/header.php:259
+msgid "My Profile"
+msgstr "Mina sidor"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:189
+msgid "Upload code"
+msgstr "Ladda upp kod"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:194
+msgid "Admin"
+msgstr "Admin"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:198
+msgid "Requests"
+msgstr "Förslag"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:200
+#: /Users/webmaster/Downloads/backuptranslate/header.php:237
+#: /Users/webmaster/Downloads/backuptranslate/header.php:266
+msgid "Register"
+msgstr "Registrera"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:202
+msgid "Active login"
+msgstr "Aktiv login"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:212
+msgid "logged in with Facebook"
+msgstr "Inloggad med Facebook"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:218
+msgid "Already a member?"
+msgstr "Är du redan medlem?"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:229
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:166
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:186
+msgid "Username"
+msgstr "Användarnamn"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:233
+msgid "Password"
+msgstr "Lösen"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:237
+msgid "Not a member?"
+msgstr "Är du inte medlem?"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:237
+msgid "now!"
+msgstr "nu!"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:238
+msgid "Sign in"
+msgstr "Logga in"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:242
+msgid "Or log in with Facebook"
+msgstr "Eller logga in med Facebook"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:249
+msgid "Search"
+msgstr "Sök"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:262
+msgid "Upload Code"
+msgstr " Ladda upp kod"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:270
+msgid "Top 10"
+msgstr "Top 10"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:283
+msgid "All"
+msgstr "Alla"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:285
+msgid "Web"
+msgstr "Web"
+
+#: /Users/webmaster/Downloads/backuptranslate/header.php:290
+msgid "Other"
+msgstr "Annat"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:26
+msgid "Welcome to SourceCodeDB.com!"
+msgstr "Välkommen till SourceCodeDB.com"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:28
+msgid "SourceCodeDB is a place for all programmers, beginners and experts, to find and share useful code on the net. All content on this site is free to use for everyone."
+msgstr "SourceCodeDB är en plats för alla programmerare, nybörjare, experter, för att hitta och dela med sig utav användbar källkod. Allt på sidan är gratis att använda för alla."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:30
+msgid "To search our database you dont have to be registered"
+msgstr "För att söka i vår databas behövs ingen registrering"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:32
+msgid "Why register?"
+msgstr "Varför ska jag registrera mig?"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:34
+msgid "As a registered user of SourceCodeDB you not only get the chance to upload your own code but you are also able to access My Profile where you can save codes you would like to use at a later point in time. You will also be able to comment on code, rate code, ask questions, and edit code. When uploading a code you can choose between publishing and saving it, in which while its published everyone can see it and while its saved the code is only visable for yourself."
+msgstr "Som registrerad användare på SourceCodeDB kan man inte bara ladda upp sin egen kod, man kan även komma på \"Mina sidor\" där man kan spara andra användares koder. Man kan även kommentera på kod, betygsätta andras koder och även edita din egen kod. När man ska ladda upp sin egen kod får man två val. Antingen kan man spara koden så den enbart visas för dig vilket gör att du kan komma åt dina koder på alla dina datorer. Om man dock väljer att publisera koden så kommer du att dela med dig av din kod. Detta gör att din kod automatiskt kommer att visas i filtret när andra användare söker på kod."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:38
+msgid "For"
+msgstr "För"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:38
+msgid "new"
+msgstr "ny"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:38
+msgid "users of SourceCodeDB you can read about how to use the site"
+msgstr "användare på SourceCodeDB kan läsa mer om hur man använder sidan fullt ut."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:38
+msgid "here."
+msgstr "här."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:43
+msgid "This is a step to step guide on how to use SourceCodeDB"
+msgstr "Det här är en steg för steg guide hur man använder SourceCodeDB"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:46
+msgid "Start by registering to the website. That gives you access to"
+msgstr "Starta med att registrera dig på sidan. Detta gör att du får tillgång til"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:46
+msgid "My pages"
+msgstr "Mina sidor"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:46
+msgid "You will find the register link in the top left hand side of the page."
+msgstr "Registreringslänken finner du högst upp till vänster av sidan."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:52
+msgid "Sign in is also found in the top right."
+msgstr "Logga in knappen finner du även högst upp till höger"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:58
+msgid "Press the language you would like to see code for. You can select more than just one at a time."
+msgstr "Tryck på det programspråket som du söker efter. Notera att det här är ett filter vilket gör att du kan trycka på fler programspråk åt gången"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:64
+msgid "The difficulty filter is alredy activated, so if you would like to see just one press the one you"
+msgstr "Svårighetsgraderna lätt och svår är redan iklickade från början, så om du trycker på den svårighetsgraden du"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:64
+msgid "dont"
+msgstr "inte"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:64
+msgid "want to see."
+msgstr "vill se."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:70
+msgid "Click the title of the code you would like to see."
+msgstr "Klicka på titeln av koden som du vill se"
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:76
+msgid "And there is the code."
+msgstr "Och där finner du koden."
+
+#: /Users/webmaster/Downloads/backuptranslate/index.php:82
+msgid "Now all thats left is to get started! Welcome to SourceCodeDB!"
+msgstr "Det ända som nu återstår är att köra igång! Välkommen till SourceCodeDB!"
+
+#: /Users/webmaster/Downloads/backuptranslate/latestnews.php:7
+msgid "Latest news"
+msgstr "Senaste nyheter"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:150
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:235
+msgid "and now you have been logged in with facebook"
+msgstr "och nu har du blivit inloggad med facebook"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:162
+msgid "You dont seem to have a username specified, please type in a new name."
+msgstr "Det verkar som du inte har laggt in ett användarnamn, var god skriva in ett nytt användarnamn."
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:174
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:194
+msgid "Submit"
+msgstr "Skicka"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:182
+msgid "Your facebook username matches another user in our database, please type a new name."
+msgstr "Ditt facebooknamn finns redan i vår databas, var god välj ett nytt."
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:202
+msgid "your facebook username is too short, please contact an administrator"
+msgstr "ditt facebooknamn är för kort, var god kontakta en administratör"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:205
+msgid "your facebook username is too long, please contact an administrator"
+msgstr "Ditt facebooknamn är för långt, var god kontakta en administratör"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:208
+msgid "mm, yea, not gonna happen"
+msgstr "Ja, fast ne. kommer inte att ske!"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:211
+msgid "your facebook username can only contain alphabetical characters, please contact an administrator"
+msgstr "Ditt facebooknamn kan endast innehålla alfabetiska tecken, var god kontakta en administratör"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:218
+msgid "You have been registered using facebook, please wait while we log you in!"
+msgstr "Du har nu registrerat dig genom facebook, var god vänta medans du automatiskt loggas in!"
+
+#: /Users/webmaster/Downloads/backuptranslate/loggedin.php:257
+msgid "You seem to have gotten to this page by mistake"
+msgstr "Det verkar som att du har kommit till den här sidan av ett misstag"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:75
+#: /Users/webmaster/Downloads/backuptranslate/profile.php:81
+msgid "Join date"
+msgstr "Registrerings datum"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:82
+msgid "Email address"
+msgstr "Email adress"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:90
+#: /Users/webmaster/Downloads/backuptranslate/profile.php:89
+msgid "First name"
+msgstr "Namn"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:98
+#: /Users/webmaster/Downloads/backuptranslate/profile.php:97
+msgid "Last name"
+msgstr "Efternamn"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:146
+msgid "Add facebook"
+msgstr "Lägg till facebook"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:149
+msgid "here"
+msgstr "här"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:158
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:159
+msgid "Change email"
+msgstr "Ändra email"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:170
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: /Users/webmaster/Downloads/backuptranslate/mypages.php:192
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:66
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:34
+msgid "Message"
+msgstr "Meddelande"
+
+#: /Users/webmaster/Downloads/backuptranslate/news.php:53
+msgid "Create News"
+msgstr "Skapa nyhet"
+
+#: /Users/webmaster/Downloads/backuptranslate/profile.php:139
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: /Users/webmaster/Downloads/backuptranslate/ranked.php:7
+msgid "Top Ranked"
+msgstr "Top Rankad"
+
+#: /Users/webmaster/Downloads/backuptranslate/ranked.php:9
+msgid "Rank"
+msgstr "Rank"
+
+#: /Users/webmaster/Downloads/backuptranslate/ranked.php:30
+msgid "Top Rated"
+msgstr "Top betygsatta"
+
+#: /Users/webmaster/Downloads/backuptranslate/ranked.php:33
+msgid "Rating"
+msgstr "Betyg"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:37
+msgid "name too short"
+msgstr "namnet är för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:51
+msgid "name too long"
+msgstr "namnet är för långt"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:65
+msgid "Only alphabetical characters in name plz."
+msgstr "Var god skriv in enbart alfabetiskta tecken."
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:79
+msgid "last name too short"
+msgstr "efternamnet för för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:93
+msgid "last name too long"
+msgstr "efternamnet är för långt"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:107
+msgid "Only alphabetical characters in last name plz."
+msgstr "Skriv in endast alfabetiska tecken i efternamnet"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:121
+msgid "email is wrong :)"
+msgstr "Emailen är felaktig"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:135
+msgid "Username Unavailable"
+msgstr "Användarnamnet finns redan i databasen"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:149
+msgid "username too short"
+msgstr "Användarnamnet är för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:163
+msgid "username too Long :)"
+msgstr "Användarnamnet är för långt"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:191
+msgid "Only alphabetical characters in username plz."
+msgstr "Skriv in endast alfabetiska tecken i användarnamnet."
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:205
+msgid "password too short"
+msgstr "Lösenordet är för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:219
+msgid "Dude your password should not be that long :) Thats ridiculous!"
+msgstr "Ledsen men ditt lösenord är för långt!"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:233
+msgid "Your passwords do not match buddy, might want to check that."
+msgstr "Dina lösenord matchar inte varandra."
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:250
+msgid "You have been registered! An email with your username and other info will be sent to you."
+msgstr "Du har nu registerat dig! Ett mail kommer att skickas till dig med ditt användarnamn och annan viktig information."
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:390
+msgid "First Name"
+msgstr "Namn"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:397
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:404
+msgid "Email"
+msgstr "Email"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:425
+msgid "Again"
+msgstr "Igen"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:440
+msgid "Reset"
+msgstr "Återställ alla fält"
+
+#: /Users/webmaster/Downloads/backuptranslate/register.php:469
+msgid "umm, you are already registered and should not need to register again?"
+msgstr "Du borde väll inte behöva registrera dig när du redan har ett konto?"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:24
+msgid "Sorry your title is too long"
+msgstr "Titeln är tyvärr för lång"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:32
+msgid "Sorry your title is too short"
+msgstr "Titeln är tyvärr för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:40
+msgid "Sorry you used less than 50 words"
+msgstr "tyvärr använde du färre än 50 ord"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:48
+msgid "Sorry you cant use more than 3000 words"
+msgstr "Ledsen men du kan max använda 3000 ord"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:56
+msgid "You can only send a request every 15 minutes"
+msgstr "Du kan endast skicka in ett förslag var 15onde minut"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:65
+msgid "Request Submitted Successfully, we will now review and hopefully approve your request."
+msgstr "Förslaget har skickats in! Admins kommer nu kolla igenom förslaget och förhoppningsvis godkänna ditt förslag."
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:72
+msgid "Here you can make detailed requests that other users can get ideas from and hopefully share here on SourceCodeDB.com"
+msgstr "Här kan du skriva ett detaljerat förslag som andra användare kan ta dek utav och förhoppningsvis dela med sig av detta på SourceCodeDB.com"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:73
+msgid "For a request to be approved it must follow some guidelines."
+msgstr "För att få sitt förslag godkänt måste några grundläggande regler följas."
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:75
+msgid "Do research to see if there are other examples already out there"
+msgstr "Kontrollera så att det exemplet som du söker efter inte redan finns i databasen"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:76
+msgid "Why should someone make this, how is it useful?"
+msgstr "Varför borde någon göra detta, hur är det användbart?"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:77
+msgid "Give some details on how it could be used"
+msgstr "Ge oss några detaljer kring hur det kan användas."
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:78
+msgid "Could it be based of of something that already exists?"
+msgstr "Kan det vara baserat på något som redan finns?"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:80
+msgid "Your request should be around 200 to 500 words and be fairly thought out, we want to make this a useful brainstorming tool for developers."
+msgstr "Ditt förslag ska vara mellan 200 och 500 ord och utförligt skrivet, vi vill att förslagsidan ska vara ett bra ställe som utvecklare kan få idéer ifrån!"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:83
+msgid "Title: (50 char maximum)"
+msgstr "Titel: (50 tecken max)"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:85
+msgid "Request"
+msgstr "Förslag"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:89
+msgid "Submit Request"
+msgstr "Skicka in förslag"
+
+#: /Users/webmaster/Downloads/backuptranslate/requests.php:140
+msgid "Sorry you must be logged in to see and use the request features."
+msgstr "Var god logga in för att kunna se förslag"
+
+#: /Users/webmaster/Downloads/backuptranslate/senaste5.php:22
+msgid "Latest uploads"
+msgstr "Senaste uppladdningar"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:28
+msgid "Please wait 30 seconds between messages"
+msgstr "Var god vänta 30 sekunder mellan varje skickat meddelande"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:33
+msgid "Message sent!"
+msgstr "Meddelenade skickat!"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:52
+msgid "You cant send yourself a message"
+msgstr "Du kan inte skicka meddelande till dig själv"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:58
+msgid "Send To"
+msgstr "Skicka till"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:75
+msgid "Send"
+msgstr "Skicka"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:86
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:50
+msgid "You dont have permission to view this message"
+msgstr "Du har inte tillräckligt med rättigheter för att kolla på det här meddelandet"
+
+#: /Users/webmaster/Downloads/backuptranslate/sendmessage.php:94
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:58
+msgid "Sorry you must be logged in to see your messages."
+msgstr "Var god logga in för att kunna titta på dina meddelanden"
+
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:22
+msgid "Sent"
+msgstr "Skickat"
+
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:27
+msgid "By"
+msgstr "Av"
+
+#: /Users/webmaster/Downloads/backuptranslate/showmessage.php:41
+msgid "Reply to message"
+msgstr "Svara på meddelande"
+
+#: /Users/webmaster/Downloads/backuptranslate/storecode.php:87
+msgid "Please enter valid URL including http://"
+msgstr "Var god skriv in en giltig URL med http://"
+
+#: /Users/webmaster/Downloads/backuptranslate/storecode.php:92
+#: /Users/webmaster/Downloads/backuptranslate/updatecode.php:34
+msgid "Title cant be that long"
+msgstr "Titeln kan inte vara så lång"
+
+#: /Users/webmaster/Downloads/backuptranslate/storecode.php:97
+#: /Users/webmaster/Downloads/backuptranslate/updatecode.php:39
+msgid "Title cant be that short"
+msgstr "Titeln kan inte vara så kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/storecode.php:116
+msgid "Code Submitted!"
+msgstr "Koden har nu skickats in!"
+
+#: /Users/webmaster/Downloads/backuptranslate/storecode.php:129
+#: /Users/webmaster/Downloads/backuptranslate/updatecode.php:68
+msgid "Sorry you must be logged in to do that"
+msgstr "Ledsen, men du behöver vara inloggad för att göra detta"
+
+#: /Users/webmaster/Downloads/backuptranslate/updatecode.php:50
+msgid "Code updated"
+msgstr "Koden har nu uppdaterats"
+
+#: /Users/webmaster/Downloads/backuptranslate/updatecode.php:63
+msgid "UBERBRAINCHILD do not like the hackzors"
+msgstr "UBERBRAINCHILD do not like the hackzors"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:40
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:96
+msgid "Approved"
+msgstr "Godkänd"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:43
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:47
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:99
+msgid "Yes"
+msgstr "Ja"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:50
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:102
+msgid "No"
+msgstr "Nej"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:54
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:105
+msgid "The Request"
+msgstr "Förslaget"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:60
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:66
+msgid "This comment is approved"
+msgstr "Den här kommentaren har blivit godkänd"
+
+#: /Users/webmaster/Downloads/backuptranslate/viewrequest.php:111
+msgid "Request not approved"
+msgstr "Förslaget har inte blivit godkänt"
+
+#: /Users/webmaster/Downloads/backuptranslate/warn.php:30
+msgid "Please wait 5 seconds between warnings"
+msgstr "Var god vänta 5 sekunder mellan varningarna"
+
+#: /Users/webmaster/Downloads/backuptranslate/warn.php:36
+msgid "Warning sent!"
+msgstr "Varning skickad!"
+
+#: /Users/webmaster/Downloads/backuptranslate/warn.php:69
+msgid "Reason for warning"
+msgstr "Anledning till varningen"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changeEmail.php:48
+msgid "success"
+msgstr "success"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changeEmail.php:61
+#: /Users/webmaster/Downloads/backuptranslate/functions/changeEmail.php:66
+msgid "Wrong email!"
+msgstr "Fel email"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changepw.php:19
+msgid "Too short!"
+msgstr "för kort"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changepw.php:22
+msgid "Password max length is 30 chracters"
+msgstr "Lösenordets maxlängd är 30 tecken"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changepw.php:31
+msgid "Your passwords do not match!"
+msgstr "Dina lösenord matchar inte varandra"
+
+#: /Users/webmaster/Downloads/backuptranslate/functions/changepw.php:36
+msgid "Wrong password!"
+msgstr "Fel lösenord!"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:82
+msgid "No server specified"
+msgstr "Ingen server har valts"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:90
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:102
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:123
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:246
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:300
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:311
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:359
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:393
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:426
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:525
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:548
+msgid "Error "
+msgstr "Fel"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:115
+msgid "no login ID submitted"
+msgstr "inget login ID har skickats"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:118
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:138
+msgid "connection not established"
+msgstr "Ingen communication har etablerats"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:135
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:171
+msgid "No password submitted"
+msgstr "Inget lösenord har skickats in"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:143
+msgid "Authentication failed"
+msgstr "autentiseringen misslyckades"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:162
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:205
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:230
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:272
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:346
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:386
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:416
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:450
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:513
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:578
+msgid "No connection to server"
+msgstr "Ingen kommunication till servern"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:168
+msgid "No login ID submitted"
+msgstr "inget login ID har skickats"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:176
+msgid "No server banner"
+msgstr "Ingen server banner"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:176
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:186
+msgid "abort"
+msgstr "avbryt"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:186
+msgid "apop authentication failed"
+msgstr "apop autentiseringen misslyckades"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:323
+msgid "Premature end of list"
+msgstr "Förtida slutet av listan"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:456
+msgid "Empty command string"
+msgstr "Tom kommandosträng"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:476
+msgid "connection does not exist"
+msgstr "anslutningen existerar inte"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:583
+msgid "No msg number submitted"
+msgstr "inget meddelande nummer har skickats"
+
+#: /Users/webmaster/Downloads/backuptranslate/grupp3/wp-includes/class-pop3.php:589
+msgid "Command failed "
+msgstr "kommandot misslyckades"
+

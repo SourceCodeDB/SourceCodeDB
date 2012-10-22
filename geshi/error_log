@@ -1,0 +1,10 @@
+[11-Oct-2011 08:13:43] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[11-Oct-2011 08:13:43] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[11-Oct-2011 08:13:43] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[11-Oct-2011 08:13:43] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[11-Oct-2011 08:13:43] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Oct-2011 06:27:35] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[27-Oct-2011 06:27:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[27-Oct-2011 06:27:36] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_mysql.so: undefined symbol: php_pdo_unregister_driver in Unknown on line 0
+[27-Oct-2011 06:27:36] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[27-Oct-2011 06:27:36] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0

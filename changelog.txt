@@ -1,0 +1,164 @@
+Coming soon - 1 week
+SourceCodeDB.com V2.1.0 - Changes by UberBrainChild (Markus Tenghamn)
+
+Features
+-Profiles now show description, website, and medals
+
+Layout
+-Only users with points are shown under Top Users This Month
+
+Functions
+-Tag cloud function has been redone
+
+Database
+-Added a table for tags
+-Added description and website to users table
+
+Maintainance
+-Made recent codes database query better
+
+Bugs
+-Fixed post to Facebook funtion
+
+Planned updates for V2.1
+-Tags need to be redone, should be its own table
+-Bio, Website, and medals need to be added to profile, maybe most used tags too
+-Questions need to be integrated with search
+-Code editor for projects need to be added
+-Code for questions
+-add projects and add code should be combined and tutorials should be a feature
+-ability to upload a project and parsable files should be added to db
+-Ajax notifications
+-Add code and add project should be combined to form add tutorial, code, project, or tutorial
+-Support for non-javascripters
+-iPhone app?
+-Questions should have tags
+-Register, Add, and Ask should be menu items
+-Profile and mypages layout needs to be redone
+
+April 21, 2012
+SourceCodeDB.com V2.0.6 - Changes by UberBrainChild (Markus Tenghamn)
+
+Functions
+-Error with Facebook function has been redone
+-Facebook functions optimized
+-Redid Twitter API functions and calls
+-Updated Monthly Rating and Ranking functions
+
+Maintainance
+-Made preparations for SourceCodeDB.com V2.1 Update
+
+Mar 29, 2012
+SourceCodeDB.com V2.0.5 - Changes by UberBrainChild (Markus Tenghamn)
+
+Functions
+-New function for updating ratings/rankings
+-Add news works like it should again - FIXED
+-Monthly top users should now be awarded medals at the end of the month - FIXED
+-Email notifications - FIXED
+
+Security
+-Various updates
+-Much stronger password encryption
+
+Maintainance
+-Fixed bugs, errors
+-Try catch added for publishing to Facebook
+-Bug that added excessive slashes to description fixed
+-106 include() changed to include_once() to prevent some session and CSRF errors
+
+Mar 27, 2012
+SourceCodeDB.com V2.0.4 - Changes by UberBrainChild (Markus Tenghamn)
+
+Maintainance
+-Fixed bugs, errors
+-Removed depreciated functions from check email functions
+-rewrote script that checks emails during registration
+
+
+Mar 27, 2012
+SourceCodeDB.com V2.0.3 - Changes by UberBrainChild (Markus Tenghamn)
+
+Maintainance
+-Fixed bugs, errors
+-Added isset in more areas to prevent errors
+
+
+Mar 13, 2012
+SourceCodeDB.com V2.0.2 - Changes by UberBrainChild (Markus Tenghamn)
+
+Maintainance
+-Fixed bugs, errors
+-Changed a lot of $_POST variables to isset()
+
+Feb 21st, 2012 at 2:20pm
+SourceCodeDB.com V2.0.1 - Changes by UberBrainChild (Markus Tenghamn)
+
+Maintainance
+-Added mysql_real_escape_string, trim, and htmlentities to all $_POST variables (security)
+
+Feb 5th, 2012 at 06:10pm
+SourceCodeDB.com V2.0 - Changes by UberBrainChild (Markus Tenghamn)
+Search function fixed/updated with help of Alex
+
+Changelog
+
+Functions
+-Zip files are created for projects upon moderation
+-Added three new programming languages: C, Python and PERL
+-Added function to calculate top monthly users
+-Code editor has line numbering and live syntax highlighting
+-"Medals" are given to the top ranked and top rated user every month
+-Added a site directory that does not utilize javascript
+-Tag cloud added to footer
+-Users can now send messages to any user
+-Suggest box added to send message page
+-Suggest box added to delete user function (admin)
+-User ranks are now shown on profiles
+-Newly registered users automatically have private profiles which means real name, email, etc. is hidden.
+-Users now have a settings page
+-When adding code, fields are autosaved every 20 seconds
+-Search results go away when search tab is closed
+-Added support for tabbing in textarea for code on add code page
+-Previous versions of code are backed up in database
+-Url is appended with a number if title is a duplicate to prevent bugs
+-Only approved/moderated codes show on main page recent codes
+-Code pages and user profiles are more SEO optimized
+
+Layout
+-Removed most center tags and made the site more DIV friendly
+-Removed categories from search
+-Added new dropdown functionality to login and menu dropdown
+-fixed unecessary absolute positioning of divs and other elements
+-added descriptions to latest codes and latest news
+
+Database
+-Added a medals table
+-Added table for User Ranks
+-Added date to ratings table
+-Added date and primary id to bookmark table
+-Added version numbering in database
+-Added numbering of files in project, page numbers
+-Added table for monthly ranked users
+-Dropped time column and combined it with date column in code information
+-Added private, notifications, and newsletter to users table
+-Added Questions table
+-Added Answers table
+
+Maintainance
+-Removed unused files and duplicates
+-Removed multi-language for now
+-Slightly optimized highlighting of existing codes
+-Updated request page description
+-Increased site load speed by an average of 4 seconds - removed unnecessary external javascript and changed it to internal
+--->Note that more javascript has been added slightly decreasing the site load speed again by about 1 second.
+-Removed use of double tables on index page
+-Removed multiple connections to database
+-Added cron job for monthly ranked/rated and updated old cron jobs
+-Updated new users guide to reflect the changes to the site and layout
+
+Bugs
+-Fixed bug in Add Project page where it would sometimes go to a white page
+-White pages after returning to sourcecodedb.com after session expire fixed (being tested)
+-Fixed edit code issues.
+-Fixed min-height issue with content/footer

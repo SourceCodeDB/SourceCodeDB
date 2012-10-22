@@ -1,0 +1,15 @@
+<ifModule mod_php5.c>
+ php_value default_charset utf-8
+</ifModule>
+
+RewriteEngine on
+
+RewriteRule (.*).html$ /displaycode.php?&title=$1 [L]
+RewriteRule (.*).htm$ /profile.php?&user=$1 [L]
+
+RewriteCond %{HTTP_HOST} !^sourcecodedb\.com$ [NC]
+RewriteRule .? http://sourcecodedb.com%{REQUEST_URI} [R=301,L]
+AuthType Basic
+AuthName "new"
+AuthUserFile "/home/grupp3/.htpasswds/public_html/new/passwd"
+require valid-user
